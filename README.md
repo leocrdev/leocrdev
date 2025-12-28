@@ -1,4 +1,4 @@
-Olá, me chamo Leonardo Cunha Ribeiro, sou desenvolvedor Front-End.
+Olá, me chamo Leonardo Cunha Ribeiro, sou ANALISTA DE QUALIDADE.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
