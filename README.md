@@ -8,7 +8,7 @@ Olá, me chamo Leonardo Cunha Ribeiro, sou ANALISTA DE QUALIDADE.
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-Playwright" height="30" width="40" src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg">
-  <img align="center" alt="Leo-Cypress" height="30" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
+  <img align="center" alt="Leo-Cypress" height="30" width="30" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
   
   ##
  
